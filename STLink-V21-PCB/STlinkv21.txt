@@ -1,0 +1,39 @@
+Board Information Report
+Filename     : E:\ProduceDesign\so-link-master\so-link-maste´®¿ÚÐÞ¸´\pcb\STLinkV21\STlinkv21.PcbDoc
+Date         : 2020/9/15
+Time         : ÏÂÎç 3:50:24
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 104
+    Connections routed, 104
+    Connections remaining, 0
+count : 4
+
+Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
+    Top Layer, 0, 99, 0, 243, 0, 0, 13, 0
+    Bottom Layer, 0, 57, 0, 162, 0, 0, 9, 0
+    Mechanical 1, 6, 0, 0, 4, 0, 0, 0, 4
+    Mechanical 13, 1, 0, 0, 12, 0, 0, 0, 50
+    Mechanical 15, 44, 0, 0, 104, 0, 0, 0, 0
+    Multi-Layer, 0, 8, 77, 0, 0, 0, 1, 0
+    Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Top Overlay, 7, 0, 0, 197, 65, 0, 0, 0
+    Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Overlay, 4, 0, 0, 128, 51, 0, 0, 0
+    Bottom Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Drill Guide, 0, 0, 0, 0, 0, 0, 0, 0
+    Keep-Out Layer, 4, 0, 0, 4, 0, 0, 0, 0
+    Drill Drawing, 0, 0, 0, 0, 0, 0, 0, 0
+count : 15
+
+Net Track Width, Count
+    6mils, 40
+    10mils, 5
+count : 2
+
+Net Via Size, Count
+    24mils, 45
+count : 1
